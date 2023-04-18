@@ -4,4 +4,5 @@ index.html, style.css dosyaları ve img klasöründen oluşmaktadır.
 Görüntü ektedir: 
 
 
-![google2023](https://user-images.githubusercontent.com/57384157/232928639-48aa0172-b95e-4498-b8d3-82986963b970.jpg)
+
+![google2023](https://user-images.githubusercontent.com/57384157/232928752-18332d76-5c95-4b89-a214-8de1a05b884d.png)
